@@ -28,6 +28,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/as/as/blob/output/snake.svg" alt="Snake animation" />
+<img src="/snake.yml" alt="Snake animation" />
 
 ###

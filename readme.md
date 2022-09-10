@@ -28,6 +28,4 @@
 
 ###
 
-<img src="/snake.yml" alt="Snake animation" />
-
 ###
